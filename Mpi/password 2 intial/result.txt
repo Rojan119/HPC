@@ -1,0 +1,60 @@
+--------------------------------------------------------------------------
+mpirun could not find anything to do.
+
+It is possible that you forgot to specify how many processes to run
+via the "-np" argument.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun could not find anything to do.
+
+It is possible that you forgot to specify how many processes to run
+via the "-np" argument.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun could not find anything to do.
+
+It is possible that you forgot to specify how many processes to run
+via the "-np" argument.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun could not find anything to do.
+
+It is possible that you forgot to specify how many processes to run
+via the "-np" argument.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun could not find anything to do.
+
+It is possible that you forgot to specify how many processes to run
+via the "-np" argument.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun could not find anything to do.
+
+It is possible that you forgot to specify how many processes to run
+via the "-np" argument.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun could not find anything to do.
+
+It is possible that you forgot to specify how many processes to run
+via the "-np" argument.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun could not find anything to do.
+
+It is possible that you forgot to specify how many processes to run
+via the "-np" argument.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun could not find anything to do.
+
+It is possible that you forgot to specify how many processes to run
+via the "-np" argument.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun could not find anything to do.
+
+It is possible that you forgot to specify how many processes to run
+via the "-np" argument.
+--------------------------------------------------------------------------
